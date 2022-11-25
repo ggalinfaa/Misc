@@ -1,7 +1,7 @@
 Example: Basic MkDocs project for Read the Docs
 ===============================================
 
-[![Documentation Status](https://readthedocs.org/projects/example-mkdocs-basic/badge/?version=latest)](https://example-mkdocs-basic.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/miscinfo/badge/?version=latest)](https://miscinfo.readthedocs.io/en/latest/?badge=latest)
 
 This example shows a basic MkDocs project with Read the Docs. You're encouraged to view it to get inspiration and copy & paste from the files in the source code. If you are using Read the Docs for the first time, have a look at the official [Read the Docs Tutorial](https://docs.readthedocs.io/en/stable/tutorial/index.html).
 
@@ -47,6 +47,7 @@ You can build and view this documentation project locally - we recommend that yo
 ```console
 # Install required Python dependencies (MkDocs etc.)
 pip install -r docs/requirements.txt
+pip install -r docs/requirements2.txt  (for some reason I was getting an error due to Pygments 2.12+)
 
 # Run the mkdocs development server
 mkdocs serve
