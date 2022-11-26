@@ -72,3 +72,10 @@ Read the Docs tutorial
 ----------------------
 
 To get started with Read the Docs, you may also refer to the [Read the Docs tutorial](https://docs.readthedocs.io/en/stable/tutorial/). It provides a full walk-through of building an example project similar to the one in this repository.
+
+Currently Interested:
+---------------------
+
+
+- [THE NLP FOR HACKERS](https://nlpforhackers.io/)
+- [Kaggle is the place to learn data science and build a portfolio](https://www.kaggle.com/)
