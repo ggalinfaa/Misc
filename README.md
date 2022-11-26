@@ -79,3 +79,4 @@ Currently Interested:
 
 - [THE NLP FOR HACKERS](https://nlpforhackers.io/)
 - [Kaggle is the place to learn data science and build a portfolio](https://www.kaggle.com/)
+- [PyTorch is an optimized tensor library for deep learning using GPUs and CPUs.](https://pytorch.org/)
